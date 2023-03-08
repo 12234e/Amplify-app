@@ -1,0 +1,14 @@
+{
+  "resourceName": "alamin",
+  "policyUUID": "21cd45ee",
+  "bucketName": "amplifyappa85d81c252bc49a698bd9e8cf6a7867b",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
